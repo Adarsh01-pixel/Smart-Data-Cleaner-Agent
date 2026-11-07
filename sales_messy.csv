@@ -1,0 +1,509 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Unit_Price,City,Payment_Method,Order_Date,Total_Sales
+1001,Sneha,Laptop,Accessories,2.0,5000.0,Mumbai,UPI,2026-01-01,10000
+1002,Karan,Keyboard,Electronics,7.0,2000.0,Nashik,Cash,2026-01-02,14000
+1003,Amit,Mobile,Gadgets,3.0,2500.0,Nashik,Cash,2026-01-03,7500
+1004,Karan,Mobile,Electronics,2.0,2500.0,Bangalore,UPI,2026-01-04,5000
+1005,Karan,Keyboard,Electronics,7.0,1000.0,Mumbai,Debit Card,2026-01-05,7000
+1006,,Headphones,Accessories,2.0,500.0,Delhi,Credit Card,2026-01-06,1000
+1007,Amit,Mobile,Accessories,3.0,2000.0,Mumbai,Credit Card,2026-01-07,6000
+1008,Amit,Headphones,Gadgets,7.0,2500.0,Pune,Credit Card,2026-01-08,17500
+1009,Amit,Mobile,Electronics,4.0,1000.0,Mumbai,Debit Card,2026-01-09,4000
+1010,Karan,Mobile,Electronics,1.0,2500.0,Pune,UPI,2026-01-10,2500
+1011,Sneha,Tablet,Electronics,,2000.0,Pune,Cash,2026-01-11,10000
+1012,Amit,Mobile,Gadgets,9.0,2000.0,Delhi,UPI,2026-01-12,18000
+1013,Neha,Laptop,Gadgets,8.0,1500.0,Bangalore,Debit Card,2026-01-13,12000
+1014,Karan,Keyboard,Accessories,9.0,5000.0,Mumbai,Cash,2026-01-14,45000
+1015,Priya,Keyboard,Accessories,9.0,5000.0,Pune,Debit Card,2026-01-15,45000
+1016,,Headphones,Accessories,7.0,1000.0,Mumbai,Credit Card,2026-01-16,7000
+1017,Neha,Mobile,Electronics,4.0,2000.0,Bangalore,Credit Card,2026-01-17,8000
+1018,Neha,Laptop,Electronics,5.0,1500.0,Bangalore,Debit Card,2026-01-18,7500
+1019,Priya,Headphones,Accessories,1.0,1500.0,Nashik,Cash,2026-01-19,1500
+1020,Sneha,Tablet,Electronics,1.0,2500.0,Bangalore,Cash,2026-01-20,2500
+1021,Karan,Headphones,Accessories,,2500.0,Delhi,UPI,2026-01-21,7500
+1022,Rahul,Headphones,Gadgets,8.0,1500.0,Pune,Credit Card,2026-01-22,12000
+1023,Sneha,Mobile,Accessories,2.0,2500.0,Nashik,UPI,2026-01-23,5000
+1024,Priya,Tablet,Gadgets,4.0,2000.0,Delhi,UPI,2026-01-24,8000
+1025,Neha,Headphones,Electronics,2.0,500.0,Mumbai,Debit Card,2026-01-25,1000
+1026,,Laptop,Accessories,5.0,2000.0,Pune,Debit Card,2026-01-26,10000
+1027,Sneha,Laptop,Electronics,9.0,1500.0,Bangalore,UPI,2026-01-27,13500
+1028,Rahul,Keyboard,Gadgets,1.0,1500.0,Pune,Credit Card,2026-01-28,1500
+1029,Rahul,Tablet,Gadgets,5.0,2000.0,Mumbai,Debit Card,2026-01-29,10000
+1030,Amit,Tablet,Gadgets,9.0,2500.0,Nashik,UPI,2026-01-30,22500
+1031,Amit,Keyboard,Electronics,,2500.0,Nashik,UPI,2026-01-31,2500
+1032,Priya,Headphones,Electronics,9.0,5000.0,Nashik,UPI,2026-02-01,45000
+1033,Sneha,Tablet,Electronics,8.0,1500.0,Bangalore,UPI,2026-02-02,12000
+1034,Sneha,Laptop,Electronics,4.0,1000.0,Delhi,UPI,2026-02-03,4000
+1035,Neha,Laptop,Gadgets,5.0,5000.0,Delhi,UPI,2026-02-04,25000
+1036,,Mobile,Gadgets,5.0,2500.0,Pune,Debit Card,2026-02-05,12500
+1037,Neha,Tablet,Accessories,6.0,2000.0,Bangalore,Credit Card,2026-02-06,12000
+1038,Amit,Headphones,Accessories,7.0,2500.0,Nashik,UPI,2026-02-07,17500
+1039,Sneha,Keyboard,Electronics,8.0,2000.0,Nashik,Cash,2026-02-08,16000
+1040,Sneha,Keyboard,Gadgets,8.0,5000.0,Mumbai,Debit Card,2026-02-09,40000
+1041,Rahul,Headphones,Gadgets,,1500.0,Mumbai,Debit Card,2026-02-10,3000
+1042,Amit,Mobile,Gadgets,9.0,2500.0,Nashik,UPI,2026-02-11,22500
+1043,Karan,Keyboard,Accessories,7.0,2000.0,Nashik,Debit Card,2026-02-12,14000
+1044,Amit,Tablet,Accessories,4.0,1500.0,Bangalore,UPI,2026-02-13,6000
+1045,Karan,Mobile,Gadgets,4.0,1000.0,Delhi,Credit Card,2026-02-14,4000
+1046,,Tablet,Gadgets,8.0,2000.0,Mumbai,Credit Card,2026-02-15,16000
+1047,Priya,Laptop,Gadgets,4.0,5000.0,Delhi,Debit Card,2026-02-16,20000
+1048,Sneha,Mobile,Accessories,6.0,1000.0,Bangalore,Debit Card,2026-02-17,6000
+1049,Rahul,Keyboard,Gadgets,5.0,1000.0,Nashik,Cash,2026-02-18,5000
+1050,Sneha,Mobile,Gadgets,3.0,500.0,Delhi,Debit Card,2026-02-19,1500
+1051,Neha,Mobile,Electronics,2.0,,Nashik,Cash,2026-02-20,5000
+1052,Priya,Mobile,Electronics,9.0,2000.0,Nashik,Credit Card,2026-02-21,18000
+1053,Priya,Mobile,Accessories,9.0,1000.0,Pune,Credit Card,2026-02-22,9000
+1054,Rahul,Tablet,Gadgets,1.0,500.0,Delhi,UPI,2026-02-23,500
+1055,Priya,Laptop,Gadgets,3.0,5000.0,Delhi,Credit Card,2026-02-24,15000
+1056,Karan,Headphones,Electronics,8.0,1500.0,Nashik,Cash,2026-02-25,12000
+1057,Priya,Mobile,Accessories,6.0,2000.0,Bangalore,Debit Card,2026-02-26,12000
+1058,Sneha,Keyboard,Electronics,5.0,1000.0,Pune,UPI,2026-02-27,5000
+1059,Sneha,Mobile,Electronics,5.0,2500.0,Nashik,Cash,2026-02-28,12500
+1060,Sneha,Keyboard,Electronics,6.0,500.0,Mumbai,Debit Card,2026-03-01,3000
+1061,Sneha,Tablet,Electronics,7.0,,Mumbai,UPI,2026-03-02,7000
+1062,Karan,Keyboard,Gadgets,1.0,2500.0,Pune,Credit Card,2026-03-03,2500
+1063,Amit,Headphones,Gadgets,9.0,1000.0,Bangalore,Cash,2026-03-04,9000
+1064,Neha,Laptop,Electronics,3.0,2000.0,Nashik,Debit Card,2026-03-05,6000
+1065,Rahul,Keyboard,Accessories,4.0,2000.0,Delhi,UPI,2026-03-06,8000
+1066,Sneha,Keyboard,Accessories,1.0,2000.0,Pune,UPI,2026-03-07,2000
+1067,Priya,Laptop,Accessories,3.0,5000.0,Bangalore,Credit Card,2026-03-08,15000
+1068,Sneha,Headphones,Accessories,2.0,5000.0,Delhi,Debit Card,2026-03-09,10000
+1069,Priya,Mobile,Electronics,2.0,500.0,Mumbai,Credit Card,2026-03-10,1000
+1070,Neha,Keyboard,Gadgets,1.0,2000.0,Mumbai,Credit Card,2026-03-11,2000
+1071,Neha,Laptop,Accessories,8.0,,Delhi,Debit Card,2026-03-12,20000
+1072,Neha,Tablet,Electronics,3.0,1000.0,Pune,Debit Card,2026-03-13,3000
+1073,Priya,Laptop,Accessories,3.0,1500.0,Mumbai,Debit Card,2026-03-14,4500
+1074,Sneha,Tablet,Accessories,6.0,2500.0,Nashik,Cash,2026-03-15,15000
+1075,Neha,Headphones,Electronics,8.0,5000.0,Delhi,Debit Card,2026-03-16,40000
+1076,Karan,Mobile,Gadgets,9.0,5000.0,Delhi,UPI,2026-03-17,45000
+1077,Priya,Laptop,Gadgets,9.0,2500.0,Mumbai,Credit Card,2026-03-18,22500
+1078,Priya,Keyboard,Electronics,4.0,5000.0,Pune,Cash,2026-03-19,20000
+1079,Sneha,Headphones,Gadgets,5.0,2000.0,Nashik,Debit Card,2026-03-20,10000
+1080,Priya,Laptop,Electronics,2.0,500.0,Pune,Cash,2026-03-21,1000
+1081,Priya,Keyboard,Electronics,9.0,1000.0,,Debit Card,2026-03-22,9000
+1082,Neha,Laptop,Electronics,8.0,500.0,Bangalore,Cash,2026-03-23,4000
+1083,Sneha,Tablet,Gadgets,3.0,1000.0,Mumbai,Credit Card,2026-03-24,3000
+1084,Neha,Laptop,Electronics,9.0,1000.0,Mumbai,Credit Card,2026-03-25,9000
+1085,Neha,Laptop,Accessories,3.0,500.0,Mumbai,UPI,2026-03-26,1500
+1086,Sneha,Laptop,Gadgets,9.0,2500.0,Bangalore,UPI,2026-03-27,22500
+1087,Rahul,Headphones,Gadgets,2.0,1000.0,Pune,Debit Card,2026-03-28,2000
+1088,Neha,Laptop,Gadgets,9.0,500.0,Pune,Credit Card,2026-03-29,4500
+1089,Karan,Keyboard,Gadgets,8.0,1000.0,Mumbai,Cash,2026-03-30,8000
+1090,Karan,Tablet,Accessories,9.0,1500.0,Nashik,Cash,2026-03-31,13500
+1091,Priya,Tablet,Gadgets,5.0,2500.0,,Cash,2026-04-01,12500
+1092,Karan,Laptop,Gadgets,2.0,2000.0,Bangalore,UPI,2026-04-02,4000
+1093,Priya,Headphones,Electronics,8.0,1000.0,Delhi,Cash,2026-04-03,8000
+1094,Rahul,Headphones,Gadgets,6.0,1500.0,Delhi,UPI,2026-04-04,9000
+1095,Sneha,Keyboard,Accessories,8.0,2000.0,Delhi,UPI,2026-04-05,16000
+1096,Sneha,Laptop,Accessories,5.0,2000.0,Nashik,Debit Card,2026-04-06,10000
+1097,Sneha,Tablet,Accessories,2.0,1000.0,Mumbai,Cash,2026-04-07,2000
+1098,Karan,Headphones,Accessories,6.0,500.0,Bangalore,Cash,2026-04-08,3000
+1099,Rahul,Laptop,Gadgets,5.0,1000.0,Nashik,Credit Card,2026-04-09,5000
+1100,Karan,Headphones,Gadgets,5.0,1500.0,Bangalore,Debit Card,2026-04-10,7500
+1101,Karan,Headphones,Accessories,1.0,2000.0,,Credit Card,2026-04-11,2000
+1102,Rahul,Tablet,Accessories,2.0,1000.0,pune,Debit Card,2026-04-12,2000
+1103,Rahul,Mobile,Gadgets,8.0,500.0,pune,Cash,2026-04-13,4000
+1104,Rahul,Keyboard,Accessories,3.0,1000.0,pune,UPI,2026-04-14,3000
+1105,Rahul,Keyboard,Electronics,3.0,2500.0,pune,UPI,2026-04-15,7500
+1106,Sneha,Tablet,Accessories,8.0,500.0,pune,UPI,2026-04-16,4000
+1107,Amit,Headphones,Accessories,8.0,1500.0,pune,UPI,2026-04-17,12000
+1108,Amit,Laptop,Electronics,2.0,2000.0,pune,UPI,2026-04-18,4000
+1109,Rahul,Headphones,Electronics,8.0,1000.0,pune,Credit Card,2026-04-19,8000
+1110,Amit,Tablet,Gadgets,1.0,500.0,pune,Debit Card,2026-04-20,500
+1111,Amit,Keyboard,Gadgets,6.0,2500.0,pune,Cash,2026-04-21,15000
+1112,Rahul,Headphones,Electronics,8.0,500.0,Nashik,upi,2026-04-22,4000
+1113,Amit,Keyboard,Electronics,3.0,5000.0,Bangalore,upi,2026-04-23,15000
+1114,Karan,Laptop,Gadgets,8.0,2500.0,Pune,upi,2026-04-24,20000
+1115,Priya,Keyboard,Accessories,1.0,1500.0,Bangalore,upi,2026-04-25,1500
+1116,Priya,Keyboard,Electronics,9.0,2000.0,Nashik,upi,2026-04-26,18000
+1117,Rahul,Mobile,Gadgets,9.0,1500.0,Delhi,upi,2026-04-27,13500
+1118,Sneha,Mobile,Accessories,5.0,1000.0,Nashik,upi,2026-04-28,5000
+1119,Rahul,Mobile,Electronics,4.0,500.0,Mumbai,upi,2026-04-29,2000
+1120,Sneha,Keyboard,Accessories,6.0,5000.0,Bangalore,upi,2026-04-30,30000
+1121,Priya,Tablet,Gadgets,7.0,2500.0,Bangalore,upi,2026-05-01,17500
+1122,Rahul, laptop ,Electronics,5.0,2500.0,Mumbai,Cash,2026-05-02,12500
+1123,Neha, laptop ,Accessories,9.0,500.0,Mumbai,UPI,2026-05-03,4500
+1124,Karan, laptop ,Electronics,3.0,5000.0,Delhi,Cash,2026-05-04,15000
+1125,Amit, laptop ,Accessories,7.0,500.0,Bangalore,Debit Card,2026-05-05,3500
+1126,Sneha, laptop ,Gadgets,5.0,1000.0,Bangalore,Credit Card,2026-05-06,5000
+1127,Neha,Laptop,Gadgets,7.0,1500.0,Delhi,Debit Card,2026-05-07,10500
+1128,Amit,Mobile,Electronics,2.0,2500.0,Pune,Debit Card,2026-05-08,5000
+1129,Amit,Mobile,Accessories,4.0,1000.0,Delhi,UPI,2026-05-09,4000
+1130,Rahul,Headphones,Electronics,2.0,1500.0,Nashik,Cash,2026-05-10,3000
+1131,Amit,Laptop,Electronics,-5.0,1000.0,Bangalore,Credit Card,2026-05-11,7000
+1132,Karan,Keyboard,Accessories,2.0,-1000.0,Mumbai,UPI,2026-05-12,10000
+1133,Neha,Keyboard,Accessories,1.0,2500.0,Nashik,UPI,2026-05-13,2500
+1134,Amit,Mobile,Accessories,9.0,500.0,Bangalore,UPI,2026-05-14,4500
+1135,Rahul,Laptop,Gadgets,1.0,500.0,Delhi,Debit Card,2026-05-15,500
+1136,Karan,Mobile,Electronics,8.0,1500.0,Nashik,Cash,2026-05-16,12000
+1137,Priya,Tablet,Electronics,2.0,2000.0,Bangalore,Cash,2026-05-17,4000
+1138,Neha,Mobile,Gadgets,8.0,5000.0,Pune,Credit Card,2026-05-18,40000
+1139,Amit,Mobile,Accessories,3.0,1500.0,Pune,Cash,2026-05-19,4500
+1140,Rahul,Keyboard,Gadgets,6.0,2000.0,Mumbai,Cash,2026-05-20,12000
+1141,Priya,Keyboard,Gadgets,3.0,1000.0,Bangalore,UPI,invalid_date,3000
+1142,Priya,Keyboard,Gadgets,7.0,5000.0,Pune,UPI,2026-15-40,35000
+1143,Sneha,Tablet,Electronics,9.0,1000.0,Delhi,Debit Card,2026-05-23,9000
+1144,Karan,Keyboard,Gadgets,2.0,2500.0,Bangalore,UPI,2026-05-24,5000
+1145,Amit,Laptop,Electronics,5.0,5000.0,Delhi,UPI,2026-05-25,25000
+1146,Rahul,Headphones,Electronics,6.0,2000.0,Delhi,UPI,2026-05-26,12000
+1147,Sneha,Laptop,Electronics,4.0,2500.0,Pune,UPI,2026-05-27,10000
+1148,Karan,Laptop,Accessories,4.0,500.0,Bangalore,Debit Card,2026-05-28,2000
+1149,Sneha,Keyboard,Electronics,4.0,2000.0,Nashik,UPI,2026-05-29,8000
+1150,Neha,Headphones,Electronics,2.0,1500.0,Pune,Credit Card,2026-05-30,3000
+1151,Karan,Headphones,Accessories,4.0,500.0,Pune,Credit Card,2026-05-31,2000
+1152,Karan,Headphones,Electronics,1.0,500.0,Bangalore,Credit Card,2026-06-01,500
+1153,Amit,Tablet,Gadgets,6.0,1500.0,Bangalore,Credit Card,2026-06-02,9000
+1154,Karan,Keyboard,Gadgets,1.0,5000.0,Delhi,UPI,2026-06-03,5000
+1155,Sneha,Headphones,Electronics,6.0,500.0,Bangalore,Credit Card,2026-06-04,3000
+1156,Karan,Tablet,Accessories,1.0,2000.0,Delhi,UPI,2026-06-05,2000
+1157,Amit,Mobile,Gadgets,6.0,2500.0,Pune,Debit Card,2026-06-06,15000
+1158,Amit,Mobile,Accessories,8.0,500.0,Mumbai,Credit Card,2026-06-07,4000
+1159,Neha,Tablet,Accessories,2.0,2000.0,Nashik,Cash,2026-06-08,4000
+1160,Sneha,Tablet,Gadgets,2.0,1000.0,Pune,Credit Card,2026-06-09,2000
+1161,Priya,Keyboard,Accessories,4.0,2000.0,Bangalore,Credit Card,2026-06-10,8000
+1162,Priya,Keyboard,Gadgets,3.0,2500.0,Nashik,UPI,2026-06-11,7500
+1163,Karan,Mobile,Accessories,4.0,2000.0,Mumbai,Credit Card,2026-06-12,8000
+1164,Neha,Headphones,Gadgets,7.0,1500.0,Mumbai,Cash,2026-06-13,10500
+1165,Rahul,Mobile,Electronics,1.0,2500.0,Delhi,UPI,2026-06-14,2500
+1166,Karan,Headphones,Gadgets,6.0,5000.0,Nashik,UPI,2026-06-15,30000
+1167,Neha,Headphones,Gadgets,3.0,1000.0,Delhi,Debit Card,2026-06-16,3000
+1168,Sneha,Keyboard,Gadgets,7.0,1500.0,Pune,Debit Card,2026-06-17,10500
+1169,Sneha,Laptop,Gadgets,2.0,5000.0,Nashik,Credit Card,2026-06-18,10000
+1170,Sneha,Laptop,Accessories,2.0,2000.0,Pune,Debit Card,2026-06-19,4000
+1171,Sneha,Tablet,Electronics,4.0,2500.0,Delhi,Debit Card,2026-06-20,10000
+1172,Sneha,Keyboard,Gadgets,1.0,1000.0,Nashik,Debit Card,2026-06-21,1000
+1173,Neha,Headphones,Accessories,3.0,1500.0,Delhi,UPI,2026-06-22,4500
+1174,Neha,Laptop,Electronics,9.0,5000.0,Nashik,UPI,2026-06-23,45000
+1175,Amit,Headphones,Electronics,7.0,5000.0,Delhi,UPI,2026-06-24,35000
+1176,Priya,Laptop,Electronics,7.0,1000.0,Mumbai,Debit Card,2026-06-25,7000
+1177,Sneha,Laptop,Electronics,4.0,2000.0,Delhi,UPI,2026-06-26,8000
+1178,Rahul,Laptop,Gadgets,2.0,1000.0,Mumbai,Debit Card,2026-06-27,2000
+1179,Neha,Keyboard,Gadgets,4.0,5000.0,Delhi,UPI,2026-06-28,20000
+1180,Rahul,Mobile,Accessories,6.0,500.0,Nashik,UPI,2026-06-29,3000
+1181,Rahul,Headphones,Accessories,3.0,1500.0,Nashik,Cash,2026-06-30,4500
+1182,Rahul,Keyboard,Accessories,1.0,1000.0,Nashik,Credit Card,2026-07-01,1000
+1183,Amit,Keyboard,Electronics,8.0,5000.0,Bangalore,Debit Card,2026-07-02,40000
+1184,Neha,Keyboard,Electronics,5.0,2000.0,Pune,Cash,2026-07-03,10000
+1185,Rahul,Keyboard,Gadgets,5.0,5000.0,Nashik,UPI,2026-07-04,25000
+1186,Sneha,Keyboard,Electronics,4.0,2000.0,Mumbai,Debit Card,2026-07-05,8000
+1187,Karan,Tablet,Electronics,6.0,1000.0,Nashik,UPI,2026-07-06,6000
+1188,Rahul,Headphones,Electronics,3.0,2000.0,Bangalore,Credit Card,2026-07-07,6000
+1189,Amit,Keyboard,Accessories,9.0,2500.0,Mumbai,Cash,2026-07-08,22500
+1190,Neha,Headphones,Accessories,5.0,2500.0,Bangalore,Credit Card,2026-07-09,12500
+1191,Amit,Tablet,Gadgets,3.0,2500.0,Mumbai,Cash,2026-07-10,7500
+1192,Rahul,Tablet,Electronics,1.0,500.0,Delhi,UPI,2026-07-11,500
+1193,Neha,Headphones,Electronics,6.0,1000.0,Pune,Credit Card,2026-07-12,6000
+1194,Karan,Laptop,Gadgets,2.0,5000.0,Pune,Credit Card,2026-07-13,10000
+1195,Rahul,Mobile,Electronics,3.0,5000.0,Bangalore,UPI,2026-07-14,15000
+1196,Amit,Laptop,Electronics,1.0,500.0,Pune,Credit Card,2026-07-15,500
+1197,Priya,Laptop,Accessories,9.0,2000.0,Bangalore,Debit Card,2026-07-16,18000
+1198,Sneha,Laptop,Gadgets,8.0,500.0,Bangalore,Cash,2026-07-17,4000
+1199,Amit,Keyboard,Gadgets,2.0,2000.0,Bangalore,Cash,2026-07-18,4000
+1200,Neha,Tablet,Gadgets,8.0,2000.0,Pune,Cash,2026-07-19,16000
+1201,Rahul,Laptop,Gadgets,9.0,1500.0,Bangalore,Debit Card,2026-07-20,13500
+1202,Sneha,Tablet,Accessories,1.0,5000.0,Pune,Cash,2026-07-21,5000
+1203,Rahul,Headphones,Accessories,5.0,2500.0,Bangalore,UPI,2026-07-22,12500
+1204,Neha,Mobile,Electronics,8.0,2000.0,Nashik,Credit Card,2026-07-23,16000
+1205,Rahul,Headphones,Electronics,2.0,1500.0,Bangalore,Debit Card,2026-07-24,3000
+1206,Priya,Headphones,Electronics,4.0,5000.0,Mumbai,Cash,2026-07-25,20000
+1207,Sneha,Keyboard,Electronics,7.0,2500.0,Bangalore,UPI,2026-07-26,17500
+1208,Sneha,Mobile,Accessories,3.0,2000.0,Delhi,Credit Card,2026-07-27,6000
+1209,Neha,Headphones,Gadgets,5.0,2000.0,Bangalore,Credit Card,2026-07-28,10000
+1210,Priya,Headphones,Accessories,8.0,500.0,Mumbai,Debit Card,2026-07-29,4000
+1211,Amit,Mobile,Electronics,3.0,500.0,Mumbai,Debit Card,2026-07-30,1500
+1212,Rahul,Mobile,Accessories,4.0,5000.0,Pune,Debit Card,2026-07-31,20000
+1213,Karan,Headphones,Gadgets,9.0,2500.0,Nashik,UPI,2026-08-01,22500
+1214,Rahul,Mobile,Gadgets,7.0,2000.0,Bangalore,UPI,2026-08-02,14000
+1215,Rahul,Headphones,Accessories,1.0,5000.0,Pune,Debit Card,2026-08-03,5000
+1216,Amit,Headphones,Accessories,4.0,5000.0,Nashik,Cash,2026-08-04,20000
+1217,Rahul,Keyboard,Accessories,4.0,1000.0,Bangalore,Credit Card,2026-08-05,4000
+1218,Priya,Laptop,Electronics,9.0,500.0,Delhi,Credit Card,2026-08-06,4500
+1219,Priya,Headphones,Accessories,6.0,2500.0,Bangalore,UPI,2026-08-07,15000
+1220,Sneha,Tablet,Accessories,9.0,2000.0,Mumbai,Credit Card,2026-08-08,18000
+1221,Neha,Laptop,Accessories,6.0,5000.0,Mumbai,Cash,2026-08-09,30000
+1222,Karan,Laptop,Gadgets,6.0,2000.0,Delhi,Credit Card,2026-08-10,12000
+1223,Rahul,Laptop,Gadgets,5.0,1000.0,Pune,UPI,2026-08-11,5000
+1224,Rahul,Keyboard,Electronics,5.0,2500.0,Nashik,UPI,2026-08-12,12500
+1225,Amit,Headphones,Electronics,2.0,5000.0,Bangalore,Cash,2026-08-13,10000
+1226,Neha,Keyboard,Gadgets,8.0,2000.0,Mumbai,Cash,2026-08-14,16000
+1227,Priya,Headphones,Gadgets,8.0,500.0,Pune,Credit Card,2026-08-15,4000
+1228,Karan,Keyboard,Gadgets,1.0,1000.0,Delhi,Credit Card,2026-08-16,1000
+1229,Sneha,Keyboard,Accessories,8.0,2500.0,Mumbai,UPI,2026-08-17,20000
+1230,Priya,Tablet,Accessories,5.0,1000.0,Delhi,Cash,2026-08-18,5000
+1231,Neha,Keyboard,Gadgets,2.0,500.0,Bangalore,Cash,2026-08-19,1000
+1232,Sneha,Mobile,Accessories,2.0,2500.0,Nashik,Cash,2026-08-20,5000
+1233,Amit,Tablet,Accessories,6.0,1000.0,Mumbai,Credit Card,2026-08-21,6000
+1234,Amit,Keyboard,Electronics,9.0,1500.0,Mumbai,Cash,2026-08-22,13500
+1235,Rahul,Laptop,Gadgets,1.0,500.0,Bangalore,UPI,2026-08-23,500
+1236,Neha,Mobile,Gadgets,6.0,500.0,Pune,UPI,2026-08-24,3000
+1237,Karan,Mobile,Accessories,9.0,500.0,Nashik,Credit Card,2026-08-25,4500
+1238,Sneha,Mobile,Gadgets,8.0,1500.0,Mumbai,Debit Card,2026-08-26,12000
+1239,Priya,Tablet,Electronics,6.0,1500.0,Nashik,Credit Card,2026-08-27,9000
+1240,Neha,Keyboard,Electronics,3.0,2000.0,Mumbai,Debit Card,2026-08-28,6000
+1241,Neha,Keyboard,Electronics,8.0,5000.0,Nashik,Cash,2026-08-29,40000
+1242,Amit,Laptop,Gadgets,9.0,1000.0,Delhi,Credit Card,2026-08-30,9000
+1243,Rahul,Laptop,Gadgets,1.0,2000.0,Mumbai,UPI,2026-08-31,2000
+1244,Rahul,Mobile,Gadgets,9.0,1000.0,Nashik,Cash,2026-09-01,9000
+1245,Sneha,Laptop,Gadgets,6.0,5000.0,Pune,UPI,2026-09-02,30000
+1246,Amit,Tablet,Gadgets,6.0,1500.0,Delhi,Cash,2026-09-03,9000
+1247,Neha,Keyboard,Electronics,4.0,5000.0,Delhi,Credit Card,2026-09-04,20000
+1248,Karan,Mobile,Accessories,1.0,1500.0,Pune,Debit Card,2026-09-05,1500
+1249,Amit,Laptop,Electronics,8.0,5000.0,Nashik,Cash,2026-09-06,40000
+1250,Sneha,Tablet,Gadgets,2.0,2000.0,Bangalore,Debit Card,2026-09-07,4000
+1251,Sneha,Tablet,Electronics,1.0,2500.0,Pune,Cash,2026-09-08,2500
+1252,Amit,Laptop,Gadgets,2.0,2000.0,Nashik,UPI,2026-09-09,4000
+1253,Sneha,Keyboard,Gadgets,1.0,1000.0,Pune,UPI,2026-09-10,1000
+1254,Amit,Laptop,Electronics,1.0,2000.0,Pune,Cash,2026-09-11,2000
+1255,Priya,Mobile,Gadgets,9.0,500.0,Mumbai,Debit Card,2026-09-12,4500
+1256,Amit,Laptop,Accessories,1.0,1000.0,Nashik,Credit Card,2026-09-13,1000
+1257,Amit,Tablet,Gadgets,4.0,5000.0,Bangalore,Credit Card,2026-09-14,20000
+1258,Sneha,Laptop,Accessories,6.0,1000.0,Mumbai,UPI,2026-09-15,6000
+1259,Sneha,Keyboard,Accessories,7.0,2500.0,Pune,Credit Card,2026-09-16,17500
+1260,Rahul,Headphones,Gadgets,2.0,1500.0,Pune,UPI,2026-09-17,3000
+1261,Rahul,Laptop,Electronics,6.0,5000.0,Pune,Credit Card,2026-09-18,30000
+1262,Priya,Keyboard,Accessories,7.0,1000.0,Nashik,Cash,2026-09-19,7000
+1263,Rahul,Keyboard,Electronics,2.0,5000.0,Nashik,UPI,2026-09-20,10000
+1264,Amit,Tablet,Accessories,2.0,5000.0,Mumbai,UPI,2026-09-21,10000
+1265,Sneha,Keyboard,Gadgets,7.0,5000.0,Bangalore,Cash,2026-09-22,35000
+1266,Rahul,Keyboard,Gadgets,1.0,1500.0,Mumbai,UPI,2026-09-23,1500
+1267,Rahul,Keyboard,Accessories,8.0,2000.0,Delhi,Credit Card,2026-09-24,16000
+1268,Priya,Keyboard,Gadgets,3.0,5000.0,Pune,Credit Card,2026-09-25,15000
+1269,Neha,Mobile,Accessories,6.0,500.0,Pune,UPI,2026-09-26,3000
+1270,Priya,Mobile,Gadgets,9.0,2500.0,Pune,Credit Card,2026-09-27,22500
+1271,Amit,Tablet,Electronics,6.0,1500.0,Mumbai,Debit Card,2026-09-28,9000
+1272,Sneha,Laptop,Gadgets,9.0,1000.0,Mumbai,UPI,2026-09-29,9000
+1273,Priya,Keyboard,Electronics,7.0,1500.0,Pune,Cash,2026-09-30,10500
+1274,Rahul,Laptop,Gadgets,9.0,1000.0,Mumbai,Debit Card,2026-10-01,9000
+1275,Sneha,Laptop,Electronics,2.0,1500.0,Nashik,UPI,2026-10-02,3000
+1276,Sneha,Tablet,Gadgets,8.0,1000.0,Nashik,Cash,2026-10-03,8000
+1277,Rahul,Keyboard,Electronics,8.0,5000.0,Mumbai,Credit Card,2026-10-04,40000
+1278,Priya,Keyboard,Accessories,2.0,2000.0,Pune,Cash,2026-10-05,4000
+1279,Rahul,Headphones,Accessories,4.0,1000.0,Mumbai,Debit Card,2026-10-06,4000
+1280,Neha,Laptop,Electronics,7.0,1000.0,Mumbai,Credit Card,2026-10-07,7000
+1281,Sneha,Laptop,Gadgets,4.0,500.0,Mumbai,UPI,2026-10-08,2000
+1282,Karan,Mobile,Electronics,4.0,1000.0,Delhi,Credit Card,2026-10-09,4000
+1283,Karan,Headphones,Gadgets,6.0,500.0,Nashik,UPI,2026-10-10,3000
+1284,Amit,Mobile,Accessories,6.0,2500.0,Bangalore,UPI,2026-10-11,15000
+1285,Rahul,Mobile,Gadgets,3.0,5000.0,Bangalore,Cash,2026-10-12,15000
+1286,Rahul,Mobile,Accessories,9.0,500.0,Delhi,Cash,2026-10-13,4500
+1287,Amit,Tablet,Gadgets,2.0,2000.0,Mumbai,Cash,2026-10-14,4000
+1288,Amit,Tablet,Gadgets,6.0,5000.0,Delhi,Debit Card,2026-10-15,30000
+1289,Amit,Mobile,Gadgets,7.0,500.0,Delhi,Debit Card,2026-10-16,3500
+1290,Sneha,Headphones,Electronics,9.0,5000.0,Pune,Cash,2026-10-17,45000
+1291,Neha,Laptop,Electronics,3.0,5000.0,Nashik,Debit Card,2026-10-18,15000
+1292,Rahul,Headphones,Accessories,3.0,5000.0,Bangalore,Credit Card,2026-10-19,15000
+1293,Sneha,Keyboard,Accessories,7.0,2500.0,Mumbai,Credit Card,2026-10-20,17500
+1294,Amit,Tablet,Electronics,4.0,2000.0,Bangalore,Debit Card,2026-10-21,8000
+1295,Rahul,Laptop,Accessories,8.0,1500.0,Bangalore,Debit Card,2026-10-22,12000
+1296,Sneha,Laptop,Electronics,7.0,1500.0,Nashik,Credit Card,2026-10-23,10500
+1297,Neha,Keyboard,Gadgets,5.0,500.0,Bangalore,UPI,2026-10-24,2500
+1298,Sneha,Keyboard,Accessories,7.0,5000.0,Bangalore,Credit Card,2026-10-25,35000
+1299,Neha,Mobile,Accessories,3.0,500.0,Delhi,Credit Card,2026-10-26,1500
+1300,Amit,Tablet,Electronics,2.0,2500.0,Nashik,Debit Card,2026-10-27,5000
+1301,Neha,Tablet,Accessories,6.0,2500.0,Pune,Credit Card,2026-10-28,15000
+1302,Rahul,Headphones,Accessories,2.0,1000.0,Mumbai,Debit Card,2026-10-29,2000
+1303,Amit,Mobile,Gadgets,3.0,2500.0,Bangalore,Debit Card,2026-10-30,7500
+1304,Rahul,Mobile,Accessories,6.0,1000.0,Mumbai,Cash,2026-10-31,6000
+1305,Karan,Mobile,Gadgets,5.0,2000.0,Pune,Credit Card,2026-11-01,10000
+1306,Priya,Mobile,Electronics,8.0,500.0,Mumbai,UPI,2026-11-02,4000
+1307,Neha,Tablet,Accessories,9.0,2000.0,Pune,Cash,2026-11-03,18000
+1308,Priya,Tablet,Gadgets,3.0,2500.0,Delhi,Debit Card,2026-11-04,7500
+1309,Priya,Mobile,Electronics,3.0,2000.0,Bangalore,Debit Card,2026-11-05,6000
+1310,Neha,Headphones,Accessories,3.0,2000.0,Pune,UPI,2026-11-06,6000
+1311,Amit,Laptop,Electronics,6.0,2000.0,Mumbai,Debit Card,2026-11-07,12000
+1312,Karan,Laptop,Accessories,1.0,2500.0,Bangalore,Credit Card,2026-11-08,2500
+1313,Rahul,Headphones,Electronics,7.0,5000.0,Delhi,Cash,2026-11-09,35000
+1314,Sneha,Mobile,Electronics,1.0,2000.0,Bangalore,Debit Card,2026-11-10,2000
+1315,Rahul,Tablet,Gadgets,5.0,1000.0,Pune,Debit Card,2026-11-11,5000
+1316,Sneha,Laptop,Electronics,8.0,2500.0,Delhi,UPI,2026-11-12,20000
+1317,Rahul,Keyboard,Accessories,4.0,2000.0,Mumbai,Credit Card,2026-11-13,8000
+1318,Neha,Keyboard,Accessories,5.0,5000.0,Delhi,Debit Card,2026-11-14,25000
+1319,Karan,Headphones,Gadgets,4.0,2500.0,Delhi,UPI,2026-11-15,10000
+1320,Sneha,Mobile,Accessories,4.0,1500.0,Nashik,Debit Card,2026-11-16,6000
+1321,Amit,Laptop,Accessories,8.0,5000.0,Delhi,UPI,2026-11-17,40000
+1322,Rahul,Mobile,Accessories,2.0,1000.0,Delhi,UPI,2026-11-18,2000
+1323,Rahul,Laptop,Electronics,1.0,2000.0,Bangalore,Credit Card,2026-11-19,2000
+1324,Sneha,Headphones,Electronics,3.0,1500.0,Mumbai,Debit Card,2026-11-20,4500
+1325,Amit,Headphones,Accessories,9.0,1500.0,Bangalore,Credit Card,2026-11-21,13500
+1326,Amit,Keyboard,Gadgets,4.0,2500.0,Bangalore,UPI,2026-11-22,10000
+1327,Neha,Mobile,Electronics,5.0,1500.0,Pune,Cash,2026-11-23,7500
+1328,Neha,Keyboard,Gadgets,2.0,1000.0,Bangalore,Debit Card,2026-11-24,2000
+1329,Neha,Mobile,Accessories,4.0,1000.0,Nashik,Cash,2026-11-25,4000
+1330,Neha,Keyboard,Accessories,2.0,500.0,Nashik,Debit Card,2026-11-26,1000
+1331,Neha,Tablet,Electronics,2.0,1000.0,Pune,Credit Card,2026-11-27,2000
+1332,Neha,Tablet,Accessories,4.0,5000.0,Mumbai,Credit Card,2026-11-28,20000
+1333,Karan,Tablet,Electronics,6.0,1500.0,Mumbai,Credit Card,2026-11-29,9000
+1334,Amit,Tablet,Accessories,7.0,1000.0,Bangalore,Credit Card,2026-11-30,7000
+1335,Neha,Laptop,Accessories,3.0,2500.0,Bangalore,Credit Card,2026-12-01,7500
+1336,Amit,Tablet,Electronics,3.0,500.0,Bangalore,Cash,2026-12-02,1500
+1337,Amit,Headphones,Electronics,6.0,1500.0,Mumbai,Credit Card,2026-12-03,9000
+1338,Priya,Headphones,Electronics,3.0,500.0,Delhi,UPI,2026-12-04,1500
+1339,Karan,Laptop,Accessories,2.0,1500.0,Nashik,UPI,2026-12-05,3000
+1340,Neha,Tablet,Accessories,8.0,2500.0,Delhi,Cash,2026-12-06,20000
+1341,Rahul,Tablet,Gadgets,5.0,500.0,Delhi,Debit Card,2026-12-07,2500
+1342,Sneha,Tablet,Electronics,1.0,2000.0,Mumbai,UPI,2026-12-08,2000
+1343,Rahul,Keyboard,Accessories,3.0,5000.0,Delhi,Debit Card,2026-12-09,15000
+1344,Karan,Mobile,Accessories,8.0,5000.0,Pune,Cash,2026-12-10,40000
+1345,Sneha,Keyboard,Electronics,4.0,1500.0,Bangalore,Debit Card,2026-12-11,6000
+1346,Karan,Mobile,Gadgets,7.0,2000.0,Pune,Debit Card,2026-12-12,14000
+1347,Amit,Tablet,Electronics,2.0,500.0,Nashik,Debit Card,2026-12-13,1000
+1348,Sneha,Tablet,Gadgets,7.0,2000.0,Bangalore,Debit Card,2026-12-14,14000
+1349,Amit,Keyboard,Accessories,5.0,2000.0,Delhi,Cash,2026-12-15,10000
+1350,Rahul,Keyboard,Gadgets,5.0,500.0,Nashik,UPI,2026-12-16,2500
+1351,Rahul,Mobile,Accessories,6.0,2500.0,Bangalore,Credit Card,2026-12-17,15000
+1352,Sneha,Headphones,Electronics,9.0,2000.0,Delhi,Debit Card,2026-12-18,18000
+1353,Sneha,Mobile,Electronics,6.0,2000.0,Pune,UPI,2026-12-19,12000
+1354,Neha,Keyboard,Electronics,8.0,2500.0,Bangalore,UPI,2026-12-20,20000
+1355,Karan,Keyboard,Gadgets,7.0,2000.0,Delhi,Cash,2026-12-21,14000
+1356,Neha,Laptop,Accessories,9.0,2000.0,Pune,UPI,2026-12-22,18000
+1357,Karan,Keyboard,Electronics,4.0,2000.0,Nashik,Cash,2026-12-23,8000
+1358,Neha,Laptop,Electronics,2.0,5000.0,Nashik,Debit Card,2026-12-24,10000
+1359,Amit,Headphones,Accessories,7.0,1000.0,Nashik,Debit Card,2026-12-25,7000
+1360,Sneha,Mobile,Electronics,6.0,2500.0,Nashik,Credit Card,2026-12-26,15000
+1361,Rahul,Mobile,Accessories,1.0,2000.0,Mumbai,Credit Card,2026-12-27,2000
+1362,Karan,Laptop,Accessories,9.0,5000.0,Bangalore,Credit Card,2026-12-28,45000
+1363,Karan,Mobile,Accessories,9.0,2500.0,Bangalore,UPI,2026-12-29,22500
+1364,Rahul,Keyboard,Accessories,2.0,1500.0,Mumbai,Debit Card,2026-12-30,3000
+1365,Neha,Tablet,Accessories,3.0,1500.0,Delhi,Cash,2026-12-31,4500
+1366,Karan,Laptop,Gadgets,5.0,2000.0,Delhi,Credit Card,2027-01-01,10000
+1367,Amit,Mobile,Electronics,5.0,5000.0,Nashik,Cash,2027-01-02,25000
+1368,Sneha,Laptop,Gadgets,1.0,5000.0,Pune,Cash,2027-01-03,5000
+1369,Rahul,Laptop,Electronics,8.0,2500.0,Delhi,Credit Card,2027-01-04,20000
+1370,Sneha,Tablet,Gadgets,8.0,2500.0,Pune,Debit Card,2027-01-05,20000
+1371,Karan,Keyboard,Accessories,4.0,5000.0,Bangalore,Credit Card,2027-01-06,20000
+1372,Karan,Laptop,Electronics,7.0,2500.0,Pune,Cash,2027-01-07,17500
+1373,Rahul,Mobile,Electronics,3.0,5000.0,Bangalore,Credit Card,2027-01-08,15000
+1374,Amit,Headphones,Gadgets,6.0,1000.0,Mumbai,Cash,2027-01-09,6000
+1375,Priya,Laptop,Gadgets,9.0,5000.0,Mumbai,Cash,2027-01-10,45000
+1376,Rahul,Laptop,Electronics,1.0,1500.0,Nashik,Credit Card,2027-01-11,1500
+1377,Priya,Tablet,Gadgets,5.0,2500.0,Delhi,UPI,2027-01-12,12500
+1378,Neha,Keyboard,Gadgets,4.0,5000.0,Nashik,Credit Card,2027-01-13,20000
+1379,Priya,Headphones,Gadgets,8.0,5000.0,Bangalore,UPI,2027-01-14,40000
+1380,Amit,Mobile,Accessories,1.0,2500.0,Nashik,Cash,2027-01-15,2500
+1381,Neha,Headphones,Accessories,9.0,1000.0,Pune,Cash,2027-01-16,9000
+1382,Priya,Mobile,Gadgets,6.0,1000.0,Bangalore,UPI,2027-01-17,6000
+1383,Neha,Keyboard,Gadgets,4.0,2500.0,Mumbai,Cash,2027-01-18,10000
+1384,Priya,Mobile,Accessories,9.0,500.0,Delhi,UPI,2027-01-19,4500
+1385,Amit,Tablet,Accessories,5.0,2500.0,Bangalore,UPI,2027-01-20,12500
+1386,Priya,Tablet,Electronics,5.0,2500.0,Bangalore,Cash,2027-01-21,12500
+1387,Priya,Tablet,Electronics,5.0,1000.0,Pune,Debit Card,2027-01-22,5000
+1388,Priya,Tablet,Accessories,1.0,1000.0,Delhi,UPI,2027-01-23,1000
+1389,Rahul,Headphones,Gadgets,1.0,2500.0,Mumbai,Credit Card,2027-01-24,2500
+1390,Rahul,Keyboard,Gadgets,8.0,2500.0,Bangalore,Credit Card,2027-01-25,20000
+1391,Rahul,Mobile,Gadgets,8.0,2500.0,Bangalore,Cash,2027-01-26,20000
+1392,Amit,Mobile,Gadgets,6.0,1000.0,Pune,Debit Card,2027-01-27,6000
+1393,Neha,Tablet,Electronics,4.0,2500.0,Nashik,Cash,2027-01-28,10000
+1394,Karan,Tablet,Accessories,2.0,2500.0,Mumbai,Debit Card,2027-01-29,5000
+1395,Priya,Laptop,Gadgets,2.0,2000.0,Delhi,UPI,2027-01-30,4000
+1396,Priya,Keyboard,Electronics,9.0,500.0,Bangalore,UPI,2027-01-31,4500
+1397,Amit,Headphones,Gadgets,5.0,1500.0,Bangalore,UPI,2027-02-01,7500
+1398,Priya,Mobile,Accessories,4.0,500.0,Mumbai,UPI,2027-02-02,2000
+1399,Rahul,Laptop,Electronics,1.0,2000.0,Nashik,Credit Card,2027-02-03,2000
+1400,Karan,Laptop,Accessories,7.0,1500.0,Bangalore,Credit Card,2027-02-04,10500
+1401,Sneha,Mobile,Accessories,3.0,2500.0,Mumbai,Cash,2027-02-05,7500
+1402,Priya,Headphones,Electronics,6.0,2000.0,Pune,Debit Card,2027-02-06,12000
+1403,Rahul,Laptop,Electronics,5.0,2500.0,Nashik,UPI,2027-02-07,12500
+1404,Sneha,Laptop,Electronics,5.0,1000.0,Delhi,UPI,2027-02-08,5000
+1405,Karan,Keyboard,Electronics,5.0,5000.0,Bangalore,Debit Card,2027-02-09,25000
+1406,Sneha,Headphones,Electronics,1.0,2000.0,Mumbai,Debit Card,2027-02-10,2000
+1407,Rahul,Laptop,Electronics,1.0,1000.0,Pune,Cash,2027-02-11,1000
+1408,Neha,Headphones,Electronics,3.0,2000.0,Delhi,Debit Card,2027-02-12,6000
+1409,Neha,Mobile,Gadgets,4.0,2000.0,Mumbai,UPI,2027-02-13,8000
+1410,Sneha,Tablet,Accessories,5.0,1000.0,Mumbai,UPI,2027-02-14,5000
+1411,Amit,Laptop,Electronics,2.0,1500.0,Delhi,UPI,2027-02-15,3000
+1412,Sneha,Keyboard,Gadgets,8.0,500.0,Pune,UPI,2027-02-16,4000
+1413,Priya,Mobile,Gadgets,2.0,2500.0,Pune,UPI,2027-02-17,5000
+1414,Priya,Headphones,Gadgets,9.0,2000.0,Nashik,Cash,2027-02-18,18000
+1415,Neha,Mobile,Accessories,2.0,2500.0,Bangalore,UPI,2027-02-19,5000
+1416,Amit,Laptop,Electronics,9.0,5000.0,Delhi,Cash,2027-02-20,45000
+1417,Rahul,Headphones,Gadgets,7.0,1000.0,Delhi,UPI,2027-02-21,7000
+1418,Priya,Tablet,Accessories,8.0,2500.0,Delhi,Credit Card,2027-02-22,20000
+1419,Neha,Mobile,Accessories,2.0,1000.0,Pune,Credit Card,2027-02-23,2000
+1420,Karan,Laptop,Accessories,7.0,2500.0,Bangalore,Credit Card,2027-02-24,17500
+1421,Neha,Keyboard,Gadgets,6.0,500.0,Nashik,Credit Card,2027-02-25,3000
+1422,Priya,Headphones,Electronics,4.0,500.0,Mumbai,Cash,2027-02-26,2000
+1423,Priya,Mobile,Gadgets,7.0,500.0,Mumbai,Cash,2027-02-27,3500
+1424,Neha,Mobile,Gadgets,4.0,500.0,Delhi,Debit Card,2027-02-28,2000
+1425,Rahul,Tablet,Electronics,2.0,500.0,Bangalore,UPI,2027-03-01,1000
+1426,Sneha,Tablet,Electronics,7.0,500.0,Pune,Credit Card,2027-03-02,3500
+1427,Priya,Keyboard,Electronics,8.0,1000.0,Bangalore,Cash,2027-03-03,8000
+1428,Neha,Keyboard,Accessories,2.0,2000.0,Bangalore,UPI,2027-03-04,4000
+1429,Neha,Laptop,Electronics,5.0,2500.0,Pune,UPI,2027-03-05,12500
+1430,Amit,Laptop,Gadgets,1.0,500.0,Delhi,Cash,2027-03-06,500
+1431,Sneha,Keyboard,Electronics,7.0,1000.0,Bangalore,Credit Card,2027-03-07,7000
+1432,Karan,Keyboard,Gadgets,8.0,1000.0,Mumbai,Debit Card,2027-03-08,8000
+1433,Rahul,Headphones,Accessories,6.0,1000.0,Pune,UPI,2027-03-09,6000
+1434,Karan,Tablet,Gadgets,5.0,2000.0,Nashik,Debit Card,2027-03-10,10000
+1435,Sneha,Laptop,Gadgets,6.0,2500.0,Delhi,Credit Card,2027-03-11,15000
+1436,Sneha,Tablet,Electronics,2.0,2000.0,Pune,Credit Card,2027-03-12,4000
+1437,Sneha,Tablet,Electronics,1.0,1500.0,Nashik,Debit Card,2027-03-13,1500
+1438,Karan,Keyboard,Gadgets,7.0,1000.0,Nashik,Credit Card,2027-03-14,7000
+1439,Sneha,Headphones,Electronics,7.0,1500.0,Bangalore,UPI,2027-03-15,10500
+1440,Neha,Mobile,Accessories,2.0,5000.0,Bangalore,Debit Card,2027-03-16,10000
+1441,Karan,Headphones,Accessories,2.0,500.0,Bangalore,Credit Card,2027-03-17,1000
+1442,Sneha,Headphones,Electronics,1.0,500.0,Pune,Debit Card,2027-03-18,500
+1443,Neha,Tablet,Accessories,8.0,2000.0,Pune,UPI,2027-03-19,16000
+1444,Amit,Headphones,Electronics,8.0,2500.0,Delhi,Credit Card,2027-03-20,20000
+1445,Sneha,Laptop,Gadgets,1.0,1500.0,Bangalore,UPI,2027-03-21,1500
+1446,Karan,Tablet,Gadgets,8.0,2500.0,Nashik,Credit Card,2027-03-22,20000
+1447,Priya,Laptop,Accessories,9.0,2000.0,Mumbai,Cash,2027-03-23,18000
+1448,Sneha,Mobile,Electronics,4.0,500.0,Delhi,Credit Card,2027-03-24,2000
+1449,Priya,Tablet,Electronics,1.0,2500.0,Pune,Debit Card,2027-03-25,2500
+1450,Neha,Mobile,Accessories,1.0,2500.0,Delhi,Credit Card,2027-03-26,2500
+1451,Amit,Tablet,Gadgets,3.0,500.0,Delhi,UPI,2027-03-27,1500
+1452,Rahul,Keyboard,Accessories,5.0,1500.0,Delhi,UPI,2027-03-28,7500
+1453,Amit,Headphones,Gadgets,5.0,500.0,Delhi,Credit Card,2027-03-29,2500
+1454,Sneha,Keyboard,Electronics,9.0,2500.0,Mumbai,Debit Card,2027-03-30,22500
+1455,Priya,Mobile,Gadgets,2.0,1500.0,Bangalore,Cash,2027-03-31,3000
+1456,Priya,Headphones,Accessories,2.0,1500.0,Nashik,Debit Card,2027-04-01,3000
+1457,Karan,Tablet,Electronics,6.0,500.0,Delhi,Cash,2027-04-02,3000
+1458,Priya,Headphones,Accessories,9.0,2500.0,Delhi,UPI,2027-04-03,22500
+1459,Karan,Laptop,Accessories,1.0,2000.0,Delhi,Debit Card,2027-04-04,2000
+1460,Neha,Headphones,Gadgets,9.0,2500.0,Bangalore,Cash,2027-04-05,22500
+1461,Rahul,Laptop,Accessories,9.0,1000.0,Pune,Credit Card,2027-04-06,9000
+1462,Sneha,Headphones,Gadgets,9.0,5000.0,Pune,UPI,2027-04-07,45000
+1463,Karan,Laptop,Electronics,5.0,2000.0,Mumbai,Credit Card,2027-04-08,10000
+1464,Rahul,Mobile,Gadgets,9.0,1500.0,Pune,UPI,2027-04-09,13500
+1465,Priya,Keyboard,Electronics,4.0,2000.0,Delhi,Debit Card,2027-04-10,8000
+1466,Priya,Tablet,Gadgets,2.0,1500.0,Delhi,Debit Card,2027-04-11,3000
+1467,Rahul,Headphones,Accessories,6.0,1500.0,Delhi,UPI,2027-04-12,9000
+1468,Priya,Keyboard,Gadgets,4.0,2000.0,Mumbai,UPI,2027-04-13,8000
+1469,Neha,Tablet,Gadgets,6.0,1500.0,Delhi,UPI,2027-04-14,9000
+1470,Neha,Tablet,Electronics,3.0,1500.0,Pune,Debit Card,2027-04-15,4500
+1471,Rahul,Laptop,Accessories,6.0,1000.0,Bangalore,Cash,2027-04-16,6000
+1472,Karan,Mobile,Gadgets,2.0,2500.0,Bangalore,Credit Card,2027-04-17,5000
+1473,Karan,Mobile,Accessories,2.0,2500.0,Nashik,Credit Card,2027-04-18,5000
+1474,Rahul,Keyboard,Gadgets,9.0,5000.0,Pune,Debit Card,2027-04-19,45000
+1475,Karan,Mobile,Gadgets,7.0,5000.0,Delhi,Credit Card,2027-04-20,35000
+1476,Karan,Headphones,Accessories,3.0,1000.0,Bangalore,UPI,2027-04-21,3000
+1477,Neha,Mobile,Gadgets,1.0,5000.0,Pune,Cash,2027-04-22,5000
+1478,Karan,Keyboard,Accessories,8.0,2000.0,Bangalore,Credit Card,2027-04-23,16000
+1479,Amit,Mobile,Gadgets,6.0,500.0,Delhi,Cash,2027-04-24,3000
+1480,Sneha,Headphones,Electronics,7.0,500.0,Bangalore,UPI,2027-04-25,3500
+1481,Priya,Laptop,Accessories,9.0,500.0,Nashik,Credit Card,2027-04-26,4500
+1482,Amit,Keyboard,Gadgets,5.0,1000.0,Nashik,Debit Card,2027-04-27,5000
+1483,Karan,Laptop,Gadgets,1.0,1000.0,Bangalore,Cash,2027-04-28,1000
+1484,Neha,Laptop,Electronics,7.0,1500.0,Pune,UPI,2027-04-29,10500
+1485,Rahul,Laptop,Accessories,5.0,500.0,Pune,Cash,2027-04-30,2500
+1486,Karan,Tablet,Gadgets,3.0,2000.0,Pune,Credit Card,2027-05-01,6000
+1487,Neha,Tablet,Electronics,9.0,5000.0,Bangalore,Credit Card,2027-05-02,45000
+1488,Sneha,Laptop,Gadgets,1.0,2000.0,Pune,Debit Card,2027-05-03,2000
+1489,Karan,Keyboard,Accessories,1.0,5000.0,Delhi,UPI,2027-05-04,5000
+1490,Rahul,Headphones,Gadgets,1.0,500.0,Nashik,UPI,2027-05-05,500
+1491,Neha,Headphones,Gadgets,3.0,500.0,Delhi,Debit Card,2027-05-06,1500
+1492,Neha,Mobile,Gadgets,6.0,500.0,Pune,Debit Card,2027-05-07,3000
+1493,Neha,Keyboard,Gadgets,3.0,1000.0,Delhi,UPI,2027-05-08,3000
+1494,Sneha,Tablet,Electronics,8.0,5000.0,Pune,Cash,2027-05-09,40000
+1495,Karan,Laptop,Electronics,2.0,1000.0,Bangalore,Cash,2027-05-10,2000
+1496,Sneha,Mobile,Accessories,9.0,1000.0,Delhi,Debit Card,2027-05-11,9000
+1497,Priya,Headphones,Electronics,3.0,2500.0,Bangalore,Cash,2027-05-12,7500
+1498,Priya,Tablet,Electronics,5.0,2000.0,Bangalore,UPI,2027-05-13,10000
+1499,Karan,Tablet,Accessories,8.0,2000.0,Mumbai,Credit Card,2027-05-14,16000
+1500,Sneha,Laptop,Electronics,2.0,1500.0,Pune,Credit Card,2027-05-15,3000
+1011,Sneha,Tablet,Electronics,,2000.0,Pune,Cash,2026-01-11,10000
+1021,Karan,Headphones,Accessories,,2500.0,Delhi,UPI,2026-01-21,7500
+1031,Amit,Keyboard,Electronics,,2500.0,Nashik,UPI,2026-01-31,2500
+1041,Rahul,Headphones,Gadgets,,1500.0,Mumbai,Debit Card,2026-02-10,3000
+1051,Neha,Mobile,Electronics,2.0,,Nashik,Cash,2026-02-20,5000
+1061,Sneha,Tablet,Electronics,7.0,,Mumbai,UPI,2026-03-02,7000
+1071,Neha,Laptop,Accessories,8.0,,Delhi,Debit Card,2026-03-12,20000
+1081,Priya,Keyboard,Electronics,9.0,1000.0,,Debit Card,2026-03-22,9000
