@@ -142,3 +142,26 @@ Visualization.
 ------------------------------------------------------------------------
 
 If you find this project useful, you can star the repository on GitHub.
+
+
+---
+
+## Application Screenshots
+
+### 1. Dashboard Overview
+![Dashboard](dashboard.png)
+
+### 2. Data Profiling
+![Data Profiling](Data_profiling.png)
+
+### 3. Final Data Validation
+![Final Validation](validation.png)
+
+### 4. Manual Data Correction
+![Manual Correction](Manual_correction.png)
+
+### 5. Cleaned Dataset
+![Cleaned Dataset](Cleaned_data.png)
+
+### 6. Export Cleaned Dataset
+![Export](Export.png)
